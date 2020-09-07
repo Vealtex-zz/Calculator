@@ -1,3 +1,7 @@
+// Only add functions if you understand them! Otherwise your calculator is broken!
+// Email: support@vealtex.com
+// Wesbite: https://vealtex.com
+// All rights reserved
 
 
 function CalculationTask() {
